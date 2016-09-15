@@ -1,9 +1,12 @@
+## Reflection
+For me, the angular part wasn't too bad. The difficult part of this assignment was actually first trying to understand the game logic because I had forgotten about object oriented programming. Once we went over the game logic together with Ilias, the rest was not too hard. There was one instance in which I had to look at the solution (the glyphicon step). 
+
 <!---
   market: SF,
   credit: https://github.com/SF-WDI-LABS/angular_hangman_lab
 -->
 
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> 
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60">
 
 #ngHangman
 
@@ -113,4 +116,3 @@ Accomplish the following features on your own or in a pair. User can...
 * restart the game after win/lose
 * keep score of games won and lost
 * see a drawing of the hangman as the game progresses (extra bonus)
-
